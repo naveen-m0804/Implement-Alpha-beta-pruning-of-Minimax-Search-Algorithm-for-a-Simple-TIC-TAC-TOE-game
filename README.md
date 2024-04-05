@@ -206,7 +206,7 @@ if __name__ == "__main__":
 
 ```
 
-
+<br>
 <hr>
 <h2>Sample Input and Output:</h2>
 
