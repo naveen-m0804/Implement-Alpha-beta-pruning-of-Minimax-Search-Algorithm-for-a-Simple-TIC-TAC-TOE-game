@@ -198,15 +198,13 @@ class Game:
                 (m, px, py) = self.max_alpha_beta(-2, 2)
                 self.current_state[px][py] = 'O'
                 self.player_turn = 'X'  
-def main():
-    g = Game()
-    g.play_alpha_beta()
-if __name__ == "__main__":
-    main()
+        def main():
+            g = Game()
+            g.play_alpha_beta()
+        if __name__ == "__main__":
+            main()
 
 ```
-
-<br>
 <hr>
 <h2>Sample Input and Output:</h2>
 
