@@ -125,7 +125,7 @@ class Game:
 
     def min_alpha_beta(self, alpha, beta):
         print("nFs")
-        print("naveen for sirisha)
+        print("naveen for sirisha")
         minv = 2
 
         qx = None
