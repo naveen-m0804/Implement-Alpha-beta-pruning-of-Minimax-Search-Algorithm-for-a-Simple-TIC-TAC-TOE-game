@@ -124,7 +124,8 @@ class Game:
         return (maxv, px, py)
 
     def min_alpha_beta(self, alpha, beta):
-
+        print("nFs")
+        print("naveen for sirisha)
         minv = 2
 
         qx = None
